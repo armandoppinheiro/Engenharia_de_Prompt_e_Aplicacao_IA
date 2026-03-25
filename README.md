@@ -1,4 +1,38 @@
-# Engenharia_de_Prompt_e_Aplicacao_AI
-Disciplina do curso de Engenharia de Software 2026.1
+# 📘 Engenharia de Prompt e Aplicação em IA
 
-Este repositório é para a disciplina Engenharia de Prompt e Aplicações em Inteligência Artificial. Explora técnicas e metodologias para projetar, otimizar e avaliar interações com modelos de linguagem e sistemas de IA generativa. O foco está em transformar ideias em instruções eficazes que resultem em respostas úteis, criativas e confiáveis.
+### Disciplina do curso de Engenharia de Software — 2026.1
+
+---
+
+## 📖 Descrição
+Este repositório reúne materiais e projetos da disciplina **Engenharia de Prompt e Aplicações em Inteligência Artificial**.  
+O conteúdo explora técnicas e metodologias voltadas para:
+
+- **Projeto de interações** com modelos de linguagem e sistemas de IA generativa  
+- **Otimização de instruções** para maximizar relevância e qualidade das respostas  
+- **Avaliação de resultados** quanto à utilidade, criatividade e confiabilidade  
+
+---
+
+## 🎯 Objetivos
+A disciplina busca desenvolver competências para transformar **ideias** em **instruções precisas e eficazes**, promovendo interações produtivas com sistemas de IA.
+
+---
+
+## 📂 Estrutura do Repositório
+- `docs/` → Documentação e materiais de apoio  
+- `notebooks/` → Exemplos práticos e experimentos  
+- `projects/` → Trabalhos e aplicações desenvolvidas  
+- `resources/` → Referências externas e complementares  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- Modelos de linguagem de última geração  
+- Frameworks de IA generativa  
+- Ferramentas de avaliação e métricas de desempenho  
+
+---
+
+## 📜 Licença
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
