@@ -17,22 +17,4 @@ O conteúdo explora técnicas e metodologias voltadas para:
 ## 🎯 Objetivos
 A disciplina busca desenvolver competências para transformar **ideias** em **instruções precisas e eficazes**, promovendo interações produtivas com sistemas de IA.
 
----
 
-## 📂 Estrutura do Repositório
-- `docs/` → Documentação e materiais de apoio  
-- `notebooks/` → Exemplos práticos e experimentos  
-- `projects/` → Trabalhos e aplicações desenvolvidas  
-- `resources/` → Referências externas e complementares  
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-- Modelos de linguagem de última geração  
-- Frameworks de IA generativa  
-- Ferramentas de avaliação e métricas de desempenho  
-
----
-
-## 📜 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
